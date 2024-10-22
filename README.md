@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm David Wang
 
-<!--
-**DavidWangwjh/DavidWangwjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate software engineer with experience in full-stack development. I enjoy building web and mobile applications and am constantly learning new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills Overview
+### 👨‍💻 Programming Languages
+JavaScript, TypeScript, Python, Golang, HTML, CSS, C#, C, C++, Java, Kotlin, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Frameworks & Databases
+React.js, Next.js, React Native, Node.js, DynamoDB, PostgreSQL, NoSQL, Firebase
+
+### 🛠️ Development Tools
+VSCode, GitHub, Jira, Confluence, BitBucket, XCode, Android Studio, Docker, pgAdmin, Postman, Figma
