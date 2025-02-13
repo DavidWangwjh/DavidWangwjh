@@ -4,10 +4,10 @@ I’m a passionate software engineer with experience in full-stack development. 
 
 ## 🔧 Technical Skills Overview
 ### 👨‍💻 Programming Languages
-JavaScript, TypeScript, Python, Golang, HTML, CSS, C#, C, C++, Java, Kotlin, SQL
+JavaScript, TypeScript, Python, Golang, HTML, CSS, C#, C, C++, Java, Kotlin, Swift, SQL
 
 ### ⚙️ Frameworks & Databases
-React.js, Next.js, React Native, Node.js, DynamoDB, PostgreSQL, NoSQL, Firebase
+React.js, Next.js, React Native, Node.js, FastAPI, Amazon DynamoDB, PostgreSQL, Firebase, Supabase
 
 ### 🛠️ Development Tools
-VSCode, GitHub, Jira, Confluence, BitBucket, XCode, Android Studio, Docker, pgAdmin, Postman, Figma
+VSCode, XCode, Android Studio, Unity, GitHub, Jira, Confluence, BitBucket, Docker, pgAdmin, Postman, Figma
